@@ -47,7 +47,7 @@ const Todo = () => {
           <div className="col-md-8 offset-md-2">
             <div className="card">
               <div className="card-header" style={{ textAlign: "center" }}>
-                Welcome To TODO
+                Welcome Rajesh Todo App
               </div>
               <div className="card-body">
                 <div className="row justify-content-center">
@@ -57,10 +57,10 @@ const Todo = () => {
                       border: "2px solid black ",
                       width: "210px",
                       marginBottom: "20px",
-                      color: "white",
+                      color: "black",
                       borderRadius: "10px",
                       fontWeight: "bold",
-                      backgroundColor: "pink",
+                      backgroundColor: "ButtonShadow",
                     }}
                   >
                     {dateTime}
